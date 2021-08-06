@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "catgory": "Education"
+    },
+    {
+        "id": 2,
+        "catgory": "Examinations"
+    },
+    {
+        "id": 3,
+        "catgory": "Comic books"
+    },
+    {
+        "id": 4,
+        "catgory": "fictions"
+    },
+    {
+        "id": 5,
+        "catgory": "biography"
+    },
+    {
+        "id": 6,
+        "catgory": "Languages"
+    },
+    {
+        "id": 7,
+        "catgory": "Cookery"
+    },
+    {
+        "id": 8,
+        "catgory": "Career Based"
+    },
+    {
+        "id": 9,
+        "catgory": "Magazines"
+    },
+    {
+        "id": 10,
+        "catgory": "Kids"
+    }
+]
+
+    

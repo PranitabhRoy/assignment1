@@ -1,0 +1,750 @@
+[
+    {
+        "id": 1,
+        "book_name":"NCERT class 10 maths",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"3",
+        "price":"165"
+    },
+    {
+        "id": 2,
+        "book_name":"NCERT class 10 science ",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"3",
+        "price":"195"
+    },
+    {
+        "id": 3,
+        "book_name":"NCERT class 9 maths",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"3",
+        "price":"190"
+    },
+    {
+        "id": 4,
+        "book_name":"NCERT class 9 sci",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"3",
+        "price":"185"
+    },
+    {
+        "id": 5,
+        "book_name":"NCERT class 1 English",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"1",
+        "price":"90"
+    },
+    {
+        "id": 6,
+        "book_name":"NCERT class 2 EVS",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"1",
+        "price":"90"
+    },
+    {
+        "id": 5,
+        "book_name":"NCERT class 3 MATHS ",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"1",
+        "price":"90"
+    },
+    {
+        "id": 6,
+        "book_name":"NCERT class 5 English",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"2",
+        "price":"120"
+    },
+    {
+        "id": 7,
+        "book_name":"NCERT class 6 science",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"2",
+        "price":"135"
+    },
+    {
+        "id": 8,
+        "book_name":"NCERT class 7 science",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"2",
+        "price":"135"
+    },
+    {
+        "id": 9,
+        "book_name":"NCERT class 8 maths",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"2",
+        "price":"140"
+    },
+
+    {
+        "id": 10,
+        "book_name":"Human anatomy Vol 1, 6-ed",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"4",
+        "price":"430"
+    },
+    {
+        "id": 11,
+        "book_name":"Pharmacalogy for dentristry 3rd-ed",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"4",
+        "price":"810"
+    },
+    {
+        "id": 12,
+        "book_name":"Human Histology, 9th-ed",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"4",
+        "price":"660"
+    },
+    {
+        "id": 13,
+        "book_name":"Engineering mathematics ",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"5",
+        "price":"200"
+    },
+    {
+        "id": 14,
+        "book_name":"C programming language, 2nd-ed ",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"5",
+        "price":"260"
+    },
+    {
+        "id": 15,
+        "book_name":"Electric Machinery fundamentals ",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"5",
+        "price":"720"
+    },
+    {
+        "id": 16,
+        "book_name":"Business Economics-taxman ",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"6",
+        "price":"200"
+    },
+    {
+        "id": 17,
+        "book_name":"Cost Management and accounting",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"6",
+        "price":"800"
+    },
+    {
+        "id": 18,
+        "book_name":"Financial accounting-I ",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"6",
+        "price":"120"
+    },
+    {
+        "id": 19,
+        "book_name":"Essentials of physical education",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"7",
+        "price":"700"
+    },
+    {
+        "id": 20,
+        "book_name":"Narain's Indian Philosophy",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"7",
+        "price":"180"
+    },
+    {
+        "id": 21,
+        "book_name":"Psychology-5th-ed",
+        "image":"",
+        "category_id":"1",
+        "subcat_id":"7",
+        "price":"620"
+    },
+
+    {
+        "id": 22,
+        "book_name":"Arihant IIT JEE mains(3books)",
+        "image":"",
+        "category_id":"2",
+        "subcat_id":"8",
+        "price":"800"
+    },
+
+    {
+        "id": 23,
+        "book_name":"Arihant IIT JEE Advanced(3books)",
+        "image":"",
+        "category_id":"2",
+        "subcat_id":"8",
+        "price":"800"
+    },
+    {
+        "id": 24,
+        "book_name":"EAMCET engineering",
+        "image":"",
+        "category_id":"2",
+        "subcat_id":"8",
+        "price":"200"
+    },
+    {
+        "id": 25,
+        "book_name":"Arihant NEET",
+        "image":"",
+        "category_id":"2",
+        "subcat_id":"9",
+        "price":"600"
+    },
+    {
+        "id": 26,
+        "book_name":"JIPMEr chapter wise",
+        "image":"",
+        "category_id":"2",
+        "subcat_id":"9",
+        "price":"250"
+    },
+    {
+        "id": 27,
+        "book_name":"NDA/NA pathfinder",
+        "image":"",
+        "category_id":"2",
+        "subcat_id":"10",
+        "price":"500"
+    },
+    {
+        "id": 28,
+        "book_name":"Vision IAS",
+        "image":"",
+        "category_id":"2",
+        "subcat_id":"10",
+        "price":"30"
+    },
+    {
+        "id": 29,
+        "book_name":"CDS pathfinder",
+        "image":"",
+        "category_id":"2",
+        "subcat_id":"10",
+        "price":"420"
+    },
+    {
+        "id": 30,
+        "book_name":"CLAT Arihant",
+        "image":"",
+        "category_id":"2",
+        "subcat_id":"11",
+        "price":"350"
+    },
+    {
+        "id": 31,
+        "book_name":"LAW CET",
+        "image":"",
+        "category_id":"2",
+        "subcat_id":"11",
+        "price":"430"
+    },
+    {
+        "id": 32,
+        "book_name":"GATE yearwise",
+        "image":"",
+        "category_id":"2",
+        "subcat_id":"12",
+        "price":"320"
+    },
+    {
+        "id": 32,
+        "book_name":"NEET MDS Dental pulse",
+        "image":"",
+        "category_id":"2",
+        "subcat_id":"12",
+        "price":"3600"
+    },
+    {
+        "id": 33,
+        "book_name":"Avengers Comics books (set of 10)",
+        "image":"",
+        "category_id":"3",
+        "subcat_id":"13",
+        "price":"2500"
+    },
+    {
+        "id": 34,
+        "book_name":"DC Comic (set of 10)",
+        "image":"",
+        "category_id":"3",
+        "subcat_id":"13",
+        "price":"2000"
+    },
+    {
+        "id": 35,
+        "book_name":"Batman Comics (Set 0of 5)",
+        "image":"",
+        "category_id":"3",
+        "subcat_id":"13",
+        "price":"999"
+    },
+    {
+        "id": 36,
+        "book_name":"Tokyo Ghoul vol-1",
+        "image":"",
+        "category_id":"3",
+        "subcat_id":"14",
+        "price":"625"
+    },
+    {
+        "id": 37,
+        "book_name":"Demon Slayer vol-1",
+        "image":"",
+        "category_id":"3",
+        "subcat_id":"14",
+        "price":"1500"
+    },
+    {
+        "id": 38,
+        "book_name":"The Adventures of Tintin vol-1",
+        "image":"",
+        "category_id":"3",
+        "subcat_id":"15",
+        "price":"779"
+    },
+    {
+        "id": 39,
+        "book_name":"Asterix and cleopatra:album-6",
+        "image":"",
+        "category_id":"3",
+        "subcat_id":"15",
+        "price":"320"
+    },
+    {
+        "id": 40,
+        "book_name":"Secret seven:1",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"16",
+        "price":"175"
+    },
+    {
+        "id": 41,
+        "book_name":"Famous five:book 1",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"16",
+        "price":"160"
+    },
+    {
+        "id": 42,
+        "book_name":"And then there were none",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"17",
+        "price":"175"
+    },
+    {
+        "id": 43,
+        "book_name":"Murder On the Orient Express",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"17",
+        "price":"165"
+    },
+    {
+        "id": 44,
+        "book_name":"The Adventures Of Sherlock Holmes",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"17",
+        "price":"135"
+    },
+    {
+        "id": 45,
+        "book_name":"The Doomsday Conspiracy",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"18",
+        "price":"245"
+    },
+    {
+        "id": 46,
+        "book_name":"Journey to the centre of the earth",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"18",
+        "price":"125"
+    },
+    {
+        "id": 47,
+        "book_name":"It ends with us",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"19",
+        "price":"352"
+    },
+    {
+        "id": 48,
+        "book_name":"The diary of my love",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"19",
+        "price":"185"
+    },
+    {
+        "id": 49,
+        "book_name":"Harry Porter And the philosopher's stone",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"20",
+        "price":"320"
+    },
+    {
+        "id": 50,
+        "book_name":"Persy Jackson and the Lightning Thief",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"20",
+        "price":"275"
+    },
+
+    {
+        "id": 51,
+        "book_name":"That night: Four friends",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"21",
+        "price":"240"
+    },
+    {
+        "id": 52,
+        "book_name":"The Silent Patient",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"21",
+        "price":"280"
+    },
+    {
+        "id": 53,
+        "book_name":"Beast",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"21",
+        "price":"400"
+    },
+    {
+        "id": 54,
+        "book_name":"Asylum:1",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"22",
+        "price":"1200"
+    },
+    {
+        "id": 55,
+        "book_name":"The shining : stephan King",
+        "image":"",
+        "category_id":"4",
+        "subcat_id":"22",
+        "price":"280"
+    },
+    {
+        "id": 56,
+        "book_name":"Treasure Island ",
+        "image":"",
+        "category_id":"6",
+        "subcat_id":"23",
+        "price":"150"
+    },
+    {
+        "id": 57,
+        "book_name":"An outline History of English Literature ",
+        "image":"",
+        "category_id":"6",
+        "subcat_id":"23",
+        "price":"150"
+    },
+    {
+        "id": 58,
+        "book_name":"Apprenons Le Francais French Textbook",
+        "image":"",
+        "category_id":"6",
+        "subcat_id":"24",
+        "price":"280"
+    },
+    {
+        "id": 59,
+        "book_name":"Short stories in german",
+        "image":"",
+        "category_id":"6",
+        "subcat_id":"24",
+        "price":"175"
+    },
+    {
+        "id": 60,
+        "book_name":"Hero ki kahani",
+        "image":"",
+        "category_id":"6",
+        "subcat_id":"24",
+        "price":"185"
+    },
+    {
+        "id": 61,
+        "book_name":"Mahatma Gandhi AutoBiography",
+        "image":"",
+        "category_id":"5",
+        "subcat_id":"",
+        "price":"175"
+    },
+    {
+        "id": 62,
+        "book_name":" AutoBiography of Yogi",
+        "image":"",
+        "category_id":"5",
+        "subcat_id":"",
+        "price":"195"
+    },
+    {
+        "id": 63,
+        "book_name":"Wings Of Fire",
+        "image":"",
+        "category_id":"5",
+        "subcat_id":"",
+        "price":"410"
+    },
+    {
+        "id": 64,
+        "book_name":"Gordon Ramsay's Ultimate Cookery course",
+        "image":"",
+        "category_id":"7",
+        "subcat_id":"",
+        "price":"1800"
+    },
+    {
+        "id": 65,
+        "book_name":"Kerela Cooking",
+        "image":"",
+        "category_id":"7",
+        "subcat_id":"",
+        "price":"75"
+    },
+    {
+        "id": 66,
+        "book_name":"Early Indians",
+        "image":"",
+        "category_id":"8",
+        "subcat_id":"25",
+        "price":"650"
+    },
+    {
+        "id": 67,
+        "book_name":"Pre-historic Archeology",
+        "image":"",
+        "category_id":"8",
+        "subcat_id":"25",
+        "price":"375"
+    },
+    {
+        "id": 68,
+        "book_name":"Web Technologies",
+        "image":"",
+        "category_id":"8",
+        "subcat_id":"26",
+        "price":"950"
+    },
+    {
+        "id": 69,
+        "book_name":"Node.js in action",
+        "image":"",
+        "category_id":"8",
+        "subcat_id":"26",
+        "price":"880"
+    },
+    {
+        "id": 70,
+        "book_name":"Islamic studies - a reference book of arabic culture",
+        "image":"",
+        "category_id":"8",
+        "subcat_id":"27",
+        "price":"800"
+    },
+    {
+        "id": 71,
+        "book_name":"Finding the Raga",
+        "image":"",
+        "category_id":"8",
+        "subcat_id":"27",
+        "price":"450"
+    },
+    {
+        "id": 72,
+        "book_name":"Transition to turbulence",
+        "image":"",
+        "category_id":"8",
+        "subcat_id":"28",
+        "price":"1350"
+    },
+    {
+        "id": 73,
+        "book_name":"Pilots Handbook",
+        "image":"",
+        "category_id":"8",
+        "subcat_id":"28",
+        "price":"1900"
+    },
+    {
+        "id": 74,
+        "book_name":"Medical Pharmacology",
+        "image":"",
+        "category_id":"8",
+        "subcat_id":"29",
+        "price":"1450"
+    },
+    {
+        "id": 75,
+        "book_name":"Diagnostic examination flashcard",
+        "image":"",
+        "category_id":"8",
+        "subcat_id":"29",
+        "price":"1600"
+    },
+    {
+        "id": 76,
+        "book_name":"The Law Book",
+        "image":"",
+        "category_id":"8",
+        "subcat_id":"30",
+        "price":"900"
+    },
+    {
+        "id": 77,
+        "book_name":"Indian Penal Code",
+        "image":"",
+        "category_id":"8",
+        "subcat_id":"30",
+        "price":"700"
+    },
+    {
+        "id": 78,
+        "book_name":"Family business",
+        "image":"",
+        "category_id":"8",
+        "subcat_id":"30",
+        "price":"290"
+    },
+    {
+        "id": 79,
+        "book_name":"Solimo long board book nursery rhymes",
+        "image":"",
+        "category_id":"10",
+        "subcat_id":"31",
+        "price":"175"
+    },
+    {
+        "id": 80,
+        "book_name":"Large print: nursery rhymes",
+        "image":"",
+        "category_id":"10",
+        "subcat_id":"31",
+        "price":"275"
+    },
+    {
+        "id": 81,
+        "book_name":"101 Panchatantra stories",
+        "image":"",
+        "category_id":"10",
+        "subcat_id":"32",
+        "price":"210"
+    },
+    {
+        "id": 82,
+        "book_name":"Great stories for children-Ruskin bond",
+        "image":"",
+        "category_id":"10",
+        "subcat_id":"32",
+        "price":"180"
+    },
+    {
+        "id": 83,
+        "book_name":"Frank EMU Book The Complete cursive",
+        "image":"",
+        "category_id":"10",
+        "subcat_id":"33",
+        "price":"100"
+    },
+    {
+        "id": 84,
+        "book_name":"Speed wRiting in improved handwriting",
+        "image":"",
+        "category_id":"10",
+        "subcat_id":"33",
+        "price":"260"
+    },
+    {
+        "id": 85,
+        "book_name":"Unicorn colouring books",
+        "image":"",
+        "category_id":"10",
+        "subcat_id":"34",
+        "price":"180"
+    },
+    {
+        "id": 86,
+        "book_name":"365 cooring book",
+        "image":"",
+        "category_id":"10",
+        "subcat_id":"34",
+        "price":"180"
+    },
+    {
+        "id": 87,
+        "book_name":"General Knowledge",
+        "image":"",
+        "category_id":"10",
+        "subcat_id":"35",
+        "price":"200"
+    },
+    {
+        "id": 88,
+        "book_name":"Current Affairs",
+        "image":"",
+        "category_id":"10",
+        "subcat_id":"35",
+        "price":"120"
+    },
+    {
+        "id": 89,
+        "book_name":"Vogue India ",
+        "image":"",
+        "category_id":"9",
+        "subcat_id":"",
+        "price":"190"
+    },
+    {
+        "id": 90,
+        "book_name":"Filmfare April",
+        "image":"",
+        "category_id":"9",
+        "subcat_id":"",
+        "price":"180"
+    }
+]

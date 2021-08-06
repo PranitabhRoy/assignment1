@@ -1,0 +1,190 @@
+[   
+    {
+        "sid":1,
+        "subcat":"Primary_School",
+        "category_id":1
+    },
+
+    {
+        "id":2,
+        "subcat":"Secondary_school",
+        "category_id":1
+    },
+    {
+        "id":3,
+        "subcat":"Highschool & intermediate",
+        "category_id":1
+    },
+    {
+        "id":4,
+        "subcat":"Medical",
+        "category_id":1
+    },
+    {
+        "id":5,
+        "subcat":"Engineering",
+        "category_id":1
+    },
+    {
+        "id":6,
+        "subcat":"Commerce and accountancy",
+        "category_id":1
+    },
+    {
+        "id":7,
+        "subcat":"Arts & Psychology",
+        "category_id":1
+    },
+
+
+    {
+        "id":8,
+        "subcat":"engineering exams",
+        "category_id":2
+    },
+    {
+        "id":9,
+        "subcat":"Medical exams",
+        "category_id":2
+    },
+    {
+        "id":10,
+        "subcat":"Defense & Govt.",
+        "category_id":2
+    },
+    {
+        "id":11,
+        "subcat":"Law and Management",
+        "category_id":2
+    },
+    {
+        "id":12,
+        "subcat":"UG and PG",
+        "category_id":2
+    },
+
+
+    {
+        "id":13,
+        "subcat":"Superheroes",
+        "category_id":3
+    },
+    {
+        "id":14,
+        "subcat":"Manga",
+        "category_id":3
+    },
+    {
+        "id":15,
+        "subcat":"others",
+        "category_id":3
+    },
+
+
+    {
+        "id":16,
+        "subcat":"Adventure & kids",
+        "category_id":4
+    },
+    {
+        "id":17,
+        "subcat":"Mystery",
+        "category_id":4
+    },
+    {
+        "id":18,
+        "subcat":"Sci-fi",
+        "category_id":4
+    },
+    {
+        "id":19,
+        "subcat":"Romance",
+        "category_id":4
+    },
+    {
+        "id":20,
+        "subcat":"Fantasy",
+        "category_id":4
+    },
+    {
+        "id":21,
+        "subcat":"Suspense/Thriller",
+        "category_id":4
+    },
+    {
+        "id":22,
+        "subcat":"Horror",
+        "category_id":4
+    },
+
+    
+    {
+        "id":23,
+        "subcat":"English",
+        "category_id":6
+    },
+    {
+        "id":24,
+        "subcat":"Other",
+        "category_id":6
+    },
+
+
+
+    {
+        "id":25,
+        "subcat":"history and archeological",
+        "category_id":8
+    },
+    {
+        "id":26,
+        "subcat":"computers and IT",
+        "category_id":8
+    },
+    {
+        "id":27,
+        "subcat":"Music and cultures",
+        "category_id":8
+    },
+    {
+        "id":28,
+        "subcat":"Aviation",
+        "category_id":8
+    },
+    {
+        "id":29,
+        "subcat":"biology and medical",
+        "category_id":8
+    },
+    {
+        "id":30,
+        "subcat":"Law, business and management",
+        "category_id":8
+    },
+
+    {
+        "id":31,
+        "subcat":"Poems and rhymes",
+        "category_id":10
+    },
+    {
+        "id":32,
+        "subcat":"Storybooks",
+        "category_id":10
+    },
+    {
+        "id":33,
+        "subcat":"Handwriting",
+        "category_id":10
+    },
+    {
+        "id":34,
+        "subcat":"colour books",
+        "category_id":10
+    },
+    {
+        "id":35,
+        "subcat":"General knowledge",
+        "category_id":1
+    }
+]
